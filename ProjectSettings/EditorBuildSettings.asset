@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu Principal.unity
+    guid: ccf51c5d256936b4fa84d0ed71123355
+  - enabled: 1
+    path: Assets/Scenes/Math Towels.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Vallet Parking.unity
+    guid: 79318b8a75a73094bba0cc18f63cdc54
+  - enabled: 1
+    path: Assets/Scenes/HGT/Nivel 1.unity
+    guid: 62abcd384c05c7248a0f3bd2ebbaefe7
+  - enabled: 1
+    path: Assets/Scenes/HGT/Nivel 2.unity
+    guid: 629f778c00a50d043a1955ee9c136f2c
+  - enabled: 1
+    path: Assets/Scenes/HGT/Nivel 3.unity
+    guid: 1ad7a49c003a5f14db3e260a43656d67
+  - enabled: 1
+    path: Assets/Scenes/HGT/Nivel 4.unity
+    guid: 8d1c56f0c9f6a1c479477e372d28acec
+  - enabled: 1
+    path: Assets/Scenes/HGT/Nivel 5.unity
+    guid: b6837abd063c1e6478eca6ef298262c0
+  - enabled: 1
+    path: Assets/Scenes/HGT/Nivel 6.unity
+    guid: be78b6940819fae4493cd11d1879a8bf
+  m_configObjects: {}
